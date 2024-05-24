@@ -1,266 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-02-18T11:00:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-02-18T01:42:14+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-24T06:21:27+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-06T11:00:00+08:00</published><updated>2024-05-24T06:21:27+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-06:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;各個組員課程心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;各個組員課程心得&lt;/p&gt;
+
+
+&lt;h1&gt;W12&lt;/h1&gt;
+&lt;p&gt;課程心得
+41123101&lt;/p&gt;
+&lt;p&gt;41123120&lt;/p&gt;
+&lt;p&gt;41123124課程心得&lt;/p&gt;
+&lt;p&gt;對於網站編寫的流程有一點點的了解，經常在滑社群網站也會看到很多關於java或是html的廣告教學，不禁會讓我想到我們使用replit建立的靜態網站，想必這在未來會是一大趨勢。但是在這些作業完成的前提之下，我可能還需要學習如何管理一個群組，像是組員的進度不一致或是大家遇到一樣的問題卡關的時候，常有每個人都不知道怎麼做而愣在一旁，我自己透過詢問老師以及chatGPT有得到相當大的解答。再將資訊給組員參考，&lt;/p&gt;
+&lt;p&gt;41123140&lt;/p&gt;
+&lt;p&gt;41123146 &lt;/p&gt;
+&lt;p&gt;課程中學到很多,像是網站的編寫跟繪圖的技巧,常常會卡關,但是組長都會協助我,讓我可以學到更多東西&lt;/p&gt;
+&lt;p&gt;41123150&lt;/p&gt;
+&lt;p&gt;41136113 課程[心得&lt;/p&gt;
+&lt;p&gt;在協同產品設計這門課中，我學到了很多關於團隊合作和管理項目的知識。這門課和傳統的上課方式不同。我的組別使用了多種工具和平台，比如Github、Replit、Odoo、NX、Coppeliasim等，來協同工作和管理我們的專案。在這門課上，我們學習了如何使用這些工具來完成任務，同時還意識到團隊分工的重要性。透過合作，我們可以更快速、更有效地完成每週的任務。使用程式來控制物體的運動，並利用AI等新興技術，讓我感受到技術的力量和可能性。在協同產品設計的過程中，我體會到團隊合作的重要性，也學到了如何在多個人協作的情況下保持項目的進度和品質。這門課教會了我如何在實際環境中使用技術，同時讓我理解到通過合作和溝通，可以達到比個人單打獨鬥更好的效果。&lt;/p&gt;
+&lt;p&gt;41136123  課程心得 &lt;/p&gt;
+&lt;p&gt;在該課程中，我學到了我平常不會接觸的github網站建立等技巧，過程中常常會遇到問題，但經過各組員的協助加上老師的幫助還是可以解決這些問題，在該課程中我學到了很多。&lt;/p&gt;</content><category term="w12"></category><category term="課程心得"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-01T11:00:00+08:00</published><updated>2024-05-24T06:18:24+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-01:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;常見問題&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;常見問題&lt;/p&gt;
+
+
+&lt;h1&gt;W7&lt;/h1&gt;
+&lt;p&gt;作業討論
+常見問題&lt;/p&gt;
+&lt;p&gt;關於codespaces使用方法，都在賴群有步驟，或是可以到41123124的網誌查看。&lt;/p&gt;
+&lt;p&gt;網誌轉換的問題 ./gen_blog輸入後enter，有時可能因為網路或是replit沒有更新那麼快，建議commit以及push完畢再重新整理一下再check一次。&lt;/p&gt;
+&lt;p&gt;這週要做甚麼，可以先到老師的blog看看每週進度，接著做做看，有遇到瓶頸都可以在群組討論。&lt;/p&gt;
+&lt;p&gt;可以透過github裡面的codespaces進行更新，也可以從replit打開的網站來修改&lt;/p&gt;</content><category term="w7"></category><category term="作業討論"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-18T11:00:00+08:00</published><updated>2024-05-24T06:10:46+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-18:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;replit重灌步驟&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;replit重灌步驟&lt;/p&gt;
+
+
+&lt;h1&gt;W5&lt;/h1&gt;
+&lt;p&gt;利用 init_replit 指令安裝所需 Python 模組&lt;/p&gt;
+&lt;p&gt;chmod u+x init_replit&lt;/p&gt;
+&lt;p&gt;./init_replit&lt;/p&gt;
+&lt;p&gt;On Replit:&lt;/p&gt;
+&lt;p&gt;.replit: python3 main.py&lt;/p&gt;
+&lt;p&gt;chmod u+x cms init_replit&lt;/p&gt;
+&lt;p&gt;./init_replit&lt;/p&gt;</content><category term="w5"></category><category term="replit"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-24T06:17:50+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-01:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;h1&gt;內容管理系統&lt;/h1&gt;
-&lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
-&lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 在文章中多次引用同一個網站連結時, 可以使用此種方法.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;https://github.com/mdecycu/cmsimde_site&lt;/a&gt; - 假如想要快速將網址套用 html 網站連結, 可以使用此種方法.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 也可以使用 Markdown 的標準網站連結使用格式.&lt;/p&gt;
-&lt;pre class="brush: python"&gt;
-# 引用 Python 程式的方法
-for i in range(10):
-    print(i, "列出字串")
-&lt;/pre&gt;
-
-&lt;p&gt;也可以直接在 .md 檔案中使用 html 標註, 或加入 Javascript 或 Brython 程式碼.&lt;/p&gt;
-&lt;p&gt;從 1 累加到 100:&lt;/p&gt;
-&lt;p&gt;&lt;button id="add1to100"&gt;1 add to 100&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;將 iterable 與 iterator &lt;a href="https://home.gamer.com.tw/creationDetail.php?sn=4337438"&gt;相關說明&lt;/a&gt;, 利用 Brython 與 Ace Editor 整理在這個頁面.&lt;/p&gt;
-&lt;!-- 導入 brython 程式庫 --&gt;
-&lt;p&gt;
-&lt;script src="./../cmsimde/static/brython.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/brython_stdlib.js"&gt;&lt;/script&gt;
-&lt;/p&gt;
-&lt;!-- 啟動 Brython --&gt;
-&lt;p&gt;
-&lt;script&gt;
-window.onload=function(){
-brython({debug:1, pythonpath:['./../cmsimde/static/','./../downloads/py/']});
-}
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- 導入 FileSaver 與 filereader --&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;script src="./../cmsimde/static/ace/FileSaver.min.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/ace/filereader.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- 導入 ace --&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;script src="./../cmsimde/static/ace/ace.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/ace/ext-language_tools.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/ace/mode-python3.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/ace/snippets/python.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- 導入 gearUtils-0.9.js Cango 齒輪繪圖程式庫 --&gt;
-&lt;script src="./../cmsimde/static/Cango-24v03-min.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/gearUtils-09.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/SVGpathUtils-6v03-min.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/sylvester.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/PrairieDraw.js"&gt;&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- 請注意, 這裡使用 Javascript 將 localStorage["kw_py_src1"] 中存在近端瀏覽器的程式碼, 由使用者決定存檔名稱--&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;script type="text/javascript"&gt;
-function doSave(storage_id, filename){
-    var blob = new Blob([localStorage[storage_id]], {type: "text/plain;charset=utf-8"});
-    filename = document.getElementById(filename).value
-    saveAs(blob, filename+".py");
-}
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-import ace
-# 清除畫布
-def clear_bd1(ev):
-    bd = doc["brython_div1"]
-    bd.clear()
-Ace1 = ace.Editor(editor_id="kw_editor1", console_id="kw_console1", container_id="kw__container1", storage_id="kw_py_src1" )
-# 從 gist 取出程式碼後, 放入 editor 作為 default 程式
-def run1():
-    # 利用 get 取下 src 變數值
-    try:
-        url = doc.query["src"]
-    except:
-        url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c3a6deaf717f8f2739a4b1392a5ab10936e9693a/from_1_add_to_10_1.py"
-    prog = open(url).read()
-
-    # 將程式載入編輯區
-    Ace1.editor.setValue(prog)
-    Ace1.editor.scrollToRow(0)
-    Ace1.editor.gotoLine(0)
-    # 直接執行程式
-    #ns = {'__name__':'__main__'}
-    #exec(prog, ns)
-    # 按下 run 按鈕
-    Ace1.run()
-
-# 執行程式, 顯示輸出結果與清除輸出結果及對應按鈕綁定
-doc['kw_run1'].bind('click', Ace1.run)
-doc['kw_show_console1'].bind('click', Ace1.show_console)
-doc['kw_clear_console1'].bind('click', Ace1.clear_console)
-doc['clear_bd1'].bind('click', clear_bd1)
-# 呼叫函式執行
-run1()
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- add 1 to 100 開始 --&gt;
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-import ace
-
-# 清除畫布
-def clear_bd1(ev):
-    bd = doc["brython_div1"]
-    bd.clear()
-
-# 利用 ace 中的 Editor 建立 Ace2 物件, 其中的輸入變數分別對應到頁面中的編輯區物件
-Ace2 = ace.Editor(editor_id="kw_editor1", console_id="kw_console1", container_id="kw__container1", storage_id="kw_py_src1" )
-
-add1to100_url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c48e37714f055c3a0027cbfef59e442a6ef659b9/from_1_add_to_100_1.py"
-
-# 從 gist 取得程式碼
-add_src = open(add1to100_url).read()
-def add(ev):
-    Ace2.editor.setValue(add_src)
-    Ace2.editor.scrollToRow(0)
-    Ace2.editor.gotoLine(0)
-    Ace2.run()
-
-# id 為 "add1to100" 的按鈕點按時, 執行 add 方法
-doc["add1to100"].bind('click', add)
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- add 1 to 100 結束--&gt;&lt;/p&gt;
-&lt;!-- editor1 開始 --&gt;
-&lt;p&gt;&lt;!-- 用來顯示程式碼的 editor 區域 --&gt;&lt;/p&gt;
-&lt;div id="kw_editor1" style="width: 600px; height: 300px;"&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- 以下的表單與按鈕與前面的 Javascript doSave 函式以及 FileSaver.min.js 互相配合 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 存擋表單開始 --&gt;&lt;/p&gt;
-&lt;form&gt;&lt;label&gt;Filename: &lt;input id="kw_filename" placeholder="input file name" type="text"/&gt;.py&lt;/label&gt; &lt;input onclick="doSave('kw_py_src1', 'kw_filename1');" type="submit" value="Save"/&gt;&lt;/form&gt;
-&lt;p&gt;&lt;!-- 存擋表單結束 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 執行與清除按鈕開始 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;button id="kw_run1"&gt;Run&lt;/button&gt; &lt;button id="kw_show_console1"&gt;Output&lt;/button&gt; &lt;button id="kw_clear_console1"&gt;清除輸出區&lt;/button&gt;&lt;button id="clear_bd1"&gt;清除繪圖區&lt;/button&gt;&lt;button onclick="window.location.reload()"&gt;Reload&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 執行與清除按鈕結束 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 程式執行 ouput 區 --&gt;&lt;/p&gt;
-&lt;div style="width: 100%; height: 100%;"&gt;&lt;textarea autocomplete="off" id="kw_console1"&gt;&lt;/textarea&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- Brython 程式執行的結果, 都以 brython_div1 作為切入位置 --&gt;&lt;/p&gt;
-&lt;div id="brython_div1"&gt;&lt;/div&gt;
-&lt;!-- editor1 結束 --&gt;
-&lt;hr/&gt;&lt;!-- ########################################## --&gt;&lt;p&gt;從 1 累加到 100 part2:&lt;/p&gt;
-&lt;p&gt;&lt;button id="add1to100part2"&gt;1 add to 100&lt;/button&gt;&lt;button id="cango_three_gears"&gt;cango_three_gears&lt;/button&gt;&lt;button id="bsnake"&gt;BSnake&lt;/button&gt;&lt;button id="aitetris"&gt;AI Tetris&lt;/button&gt;&lt;button id="threejsblock"&gt;Rotating Block&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 請注意, 這裡使用 Javascript 將 localStorage["kw_py_src2"] 中存在近端瀏覽器的程式碼, 由使用者決定存檔名稱--&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-import ace
-# 清除畫布
-def clear_bd2(ev):
-    bd = doc["brython_div2"]
-    bd.clear()
-Ace3 = ace.Editor(editor_id="kw_editor2", console_id="kw_console2", container_id="kw__container2", storage_id="kw_py_src2" )
-# 從 gist 取出程式碼後, 放入 editor 作為 default 程式
-def run2():
-    # 利用 get 取下 src 變數值
-    try:
-        url = doc.query["src2"]
-    except:
-        url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c3a6deaf717f8f2739a4b1392a5ab10936e9693a/from_1_add_to_10_1.py"
-    prog = open(url).read()
-
-    # 將程式載入編輯區
-    Ace3.editor.setValue(prog)
-    Ace3.editor.scrollToRow(0)
-    Ace3.editor.gotoLine(0)
-    # 直接執行程式
-    #ns = {'__name__':'__main__'}
-    #exec(prog, ns)
-    # 按下 run 按鈕
-    Ace3.run()
-
-# 執行程式, 顯示輸出結果與清除輸出結果及對應按鈕綁定
-doc['kw_run2'].bind('click', Ace3.run)
-doc['kw_show_console2'].bind('click', Ace3.show_console)
-doc['kw_clear_console2'].bind('click', Ace3.clear_console)
-doc['clear_bd2'].bind('click', clear_bd2)
-# 呼叫函式執行
-run2()
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- add 1 to 100 part2 開始 --&gt;
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-import ace
-
-# 清除畫布
-def clear_bd2(ev):
-    bd = doc["brython_div2"]
-    bd.clear()
-
-# 利用 ace 中的 Editor 建立 Ace2 物件, 其中的輸入變數分別對應到頁面中的編輯區物件
-Ace4 = ace.Editor(editor_id="kw_editor2", console_id="kw_console2", container_id="kw__container2", storage_id="kw_py_src2" )
-
-# 透過 Ace4 以類別建立一個通用的 button2, 可以在多個案例中將 gist 程導入編輯區
-
-class button2:
-    def __init__(self, url):
-        self.url = url
-
-    # 記得加入 event 輸入變數
-    def do(self,ev):
-        Ace4.editor.setValue(open(self.url).read())
-        Ace4.editor.scrollToRow(0)
-        Ace4.editor.gotoLine(0)
-        Ace4.run()
-
-add1to100_url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c48e37714f055c3a0027cbfef59e442a6ef659b9/from_1_add_to_100_1.py"
-
-# 從 gist 取得程式碼
-add_src = open(add1to100_url).read()
-def add2(ev):
-    Ace4.editor.setValue(add_src)
-    Ace4.editor.scrollToRow(0)
-    Ace4.editor.gotoLine(0)
-    Ace4.run()
-
-# id 為 "add1to100part2" 的按鈕點按時, 執行 add 方法
-doc["add1to100part2"].bind('click', add2)
-# 以下為運用 button2 class 的通用 gist 程式導入區
-################################## cango_three_gears start
-cango_three_gears_url = "https://gist.githubusercontent.com/mdecycu/d9082d678096bd58378d6afe2c7fa05d/raw/f7a85d737d6723d5e34c526d5daee990ed92c32b/cango_three_gears_brython_div2.py"
-cango_three_gears = button2(cango_three_gears_url)
-doc["cango_three_gears"].bind("click", cango_three_gears.do)
-################################## cango_three_gears end
-################################## bsnake start
-bsnake_url = "https://gist.githubusercontent.com/mdecycu/d9082d678096bd58378d6afe2c7fa05d/raw/f7a85d737d6723d5e34c526d5daee990ed92c32b/kmol_snakey.py"
-bsnake = button2(bsnake_url)
-doc["bsnake"].bind("click", bsnake.do)
-################################## bsnake end
-################################## aitetris start
-aitetris_url = "https://gist.githubusercontent.com/mdecycu/d9082d678096bd58378d6afe2c7fa05d/raw/f7a85d737d6723d5e34c526d5daee990ed92c32b/pygame_to_brython_tetris_ai.py"
-aitetris = button2(aitetris_url)
-doc["aitetris"].bind("click", aitetris.do)
-################################## aitetris end
-################################## threejsblock start
-threejsblock_url = "https://gist.githubusercontent.com/mdecycu/2c6323eff49b496d1bafd210f3ec9707/raw/df37802f9e8a386b6424f7945af622b1cd0a9ca5/threejs_rotating_block.py"
-threejsblock = button2(threejsblock_url)
-doc["threejsblock"].bind("click", threejsblock.do)
-################################## threejsblock end
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- add 1 to 100 part2 結束--&gt;&lt;/p&gt;
-&lt;!-- editor2 開始 --&gt;
-&lt;p&gt;&lt;!-- 用來顯示程式碼的 editor 區域 --&gt;&lt;/p&gt;
-&lt;div id="kw_editor2" style="width: 600px; height: 300px;"&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- 以下的表單與按鈕與前面的 Javascript doSave 函式以及 FileSaver.min.js 互相配合 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 存擋表單開始 --&gt;&lt;/p&gt;
-&lt;form&gt;&lt;label&gt;Filename: &lt;input id="kw_filename2" placeholder="input file name" type="text"/&gt;.py&lt;/label&gt; &lt;input onclick="doSave('kw_py_src2', 'kw_filename2');" type="submit" value="Save"/&gt;&lt;/form&gt;
-&lt;p&gt;&lt;!-- 存擋表單結束 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 執行與清除按鈕開始 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;button id="kw_run2"&gt;Run&lt;/button&gt; &lt;button id="kw_show_console2"&gt;Output&lt;/button&gt; &lt;button id="kw_clear_console2"&gt;清除輸出區&lt;/button&gt;&lt;button id="clear_bd2"&gt;清除繪圖區&lt;/button&gt;&lt;button onclick="window.location.reload()"&gt;Reload&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 執行與清除按鈕結束 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 程式執行 ouput 區 --&gt;&lt;/p&gt;
-&lt;div style="width: 100%; height: 100%;"&gt;&lt;textarea autocomplete="off" id="kw_console2"&gt;&lt;/textarea&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- Brython 程式執行的結果, 都以 brython_div1 作為切入位置 --&gt;&lt;/p&gt;
-&lt;div id="brython_div2"&gt;&lt;/div&gt;
-&lt;!-- editor2 結束 --&gt;
-&lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry></feed>
+&lt;h1&gt;W3&lt;/h1&gt;
+&lt;p&gt;網頁: 請填入目前網站所在的 URL, https://mde.tw/cmsimde_site&lt;/p&gt;
+&lt;p&gt;網誌: 請填入目前網站所在的 URL/blog, https://mde.tw/cmsimde_site/blog&lt;/p&gt;
+&lt;p&gt;簡報: 請填入目前網站所在的 URL/reveal, https://mde.tw/cmsimde_site/reveal&lt;/p&gt;
+&lt;p&gt;倉儲: 請填入目前網站所對應的 Github 倉儲連結&lt;/p&gt;
+&lt;p&gt;41123101&lt;/p&gt;
+&lt;p&gt;41123120&lt;/p&gt;
+&lt;p&gt;41123124 https://github.com/probe2004/cd2024&lt;/p&gt;
+&lt;p&gt;41123140&lt;/p&gt;
+&lt;p&gt;41123146 https://github.com/41123146ray/cd2024&lt;/p&gt;
+&lt;p&gt;41123150&lt;/p&gt;
+&lt;p&gt;41136113&lt;/p&gt;
+&lt;p&gt;41136113 https://github.com/QIUKZ/cd2024&lt;/p&gt;
+&lt;p&gt;41136123 https://github.com/4YuLa/cd2024&lt;/p&gt;</content><category term="各個組員倉儲連結"></category><category term="倉儲連結"></category></entry></feed>

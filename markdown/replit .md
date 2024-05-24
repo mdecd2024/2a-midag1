@@ -1,7 +1,7 @@
 ---
 Title: 2024 Spring 課程
 Date: 2024-04-01 11:00
-Category: w5
+Category: w7
 Tags: 作業討論
 Slug: 2024-Spring-w7-blog-tutorial
 Author: kmol
